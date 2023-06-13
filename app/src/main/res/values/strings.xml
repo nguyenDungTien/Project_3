@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Project_3</string>
+    <string name="action_home">Đồ ăn</string>
+    <string name="action_feedback">Phản hồi</string>
+    <string name="action_order">Đơn hàng</string>
+    <string name="action_account">Tài khoản</string>
+    <string name="nav_my_profile">Thông tin tài khoản</string>
+    <string name="nav_change_password">Đổi mật khẩu</string>
+    <string name="nav_sign_out">Đăng xuất</string>
+    <string name="nav_cart">Giỏ hàng</string>
+    <string name="nav_contact">Liên hệ</string>
+    <string name="history">Lịch sử đặt hàng</string>
+    <string name="income">Báo cáo doanh thu</string>
+    <string name="reset">Thay đổi</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="change_password">Nhập mật khẩu thay đổi:</string>
+    <string name="current_password">Nhập mật khẩu hiện tại:</string>
+    <string name="info_account">Thông tin tài khoản</string>
+    <string name="update_info">Cập nhật thông tin</string>
+    <string name="name_account">Tên người dùng</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="zalo_phone">Zalo/Phone</string>
+    <string name="gmail">Gmail</string>
+    <string name="facebook">Facebook</string>
+    <string name="admin">Nguyễn Tiến Dũng</string>
+    <string name="exit">Thoát</string>
+    <string name="title_text_phone">Số điện thoại: 0000000000</string>
+    <string name="email_address">Email: Ibrabalotesii@gmail.com</string>
+</resources>
